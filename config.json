@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "functions-and-lists",
+      "title": "Functions and Lists",
+      "description": "Write reusable functions and organize data with Python lists.",
+      "path": "assignments/functions-and-lists",
+      "dueDate": "2026-10-05"
     }
   ]
 }
